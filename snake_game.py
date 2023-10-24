@@ -12,7 +12,7 @@ high_score = 0
 # Creating a window screen
 wn = turtle.Screen()
 wn.title("Snake Game")
-wn.bgcolor("white")
+wn.bgcolor("yellow")
 # the width and height can be put as user's choice
 wn.setup(width=600, height=600)
 wn.tracer(0)
